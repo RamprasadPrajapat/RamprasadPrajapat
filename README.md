@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RamprasadPrajapat
+- 👋 Hi, I’m @Ramprasad Prajapat
 - 👀 I’m interested in Web Develpoment
 - 🌱 I’m currently learning Frontend Develpoment
 - 📫 How to reach me https://github.com/RamprasadPrajapat
